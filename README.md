@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WilliamPlays0402
-- 👀 I’m interested in JavaScript / Skript (Minecraft scripting language)
+- 👀 I’m interested in JavaScript / Java
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via my Email: me@williamplays0402.com
